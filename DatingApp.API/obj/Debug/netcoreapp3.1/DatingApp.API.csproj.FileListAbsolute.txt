@@ -57,7 +57,6 @@
 /Users/altissiana/Projects/CSharp/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
 /Users/altissiana/Projects/CSharp/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/appsettings.json
 /Users/altissiana/Projects/CSharp/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
-/Users/altissiana/Projects/CSharp/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/DatingApp.API
 /Users/altissiana/Projects/CSharp/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/DatingApp.API.deps.json
 /Users/altissiana/Projects/CSharp/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/DatingApp.API.runtimeconfig.json
 /Users/altissiana/Projects/CSharp/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/DatingApp.API.runtimeconfig.dev.json
@@ -110,3 +109,13 @@
 /Users/altissiana/Projects/CSharp/DatingApp/DatingApp.API/obj/Debug/netcoreapp3.1/DatingApp.API.csproj.CopyComplete
 /Users/altissiana/Projects/CSharp/DatingApp/DatingApp.API/obj/Debug/netcoreapp3.1/DatingApp.API.dll
 /Users/altissiana/Projects/CSharp/DatingApp/DatingApp.API/obj/Debug/netcoreapp3.1/DatingApp.API.pdb
+/Users/altissiana/Projects/CSharp/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/altissiana/Projects/CSharp/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/altissiana/Projects/CSharp/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/altissiana/Projects/CSharp/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/altissiana/Projects/CSharp/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/altissiana/Projects/CSharp/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/altissiana/Projects/CSharp/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/altissiana/Projects/CSharp/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/altissiana/Projects/CSharp/DatingApp/DatingApp.API/obj/Debug/netcoreapp3.1/DatingApp.API.csproj.CoreCompileInputs.cache
+/Users/altissiana/Projects/CSharp/DatingApp/DatingApp.API/obj/Debug/netcoreapp3.1/DatingApp.API.genruntimeconfig.cache
